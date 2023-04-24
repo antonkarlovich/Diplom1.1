@@ -1,2 +1,6 @@
-package praktikum;public class IngredientType {
+package praktikum;
+
+public enum IngredientType {
+    SAUCE,
+    FILLING
 }
